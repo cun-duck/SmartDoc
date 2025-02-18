@@ -1,0 +1,11 @@
+streamlit 
+huggingface_hub 
+PyPDF2 
+python-docx 
+moviepy 
+pillow
+python-dotenv 
+numpy
+matplotlib
+langchain
+imageio

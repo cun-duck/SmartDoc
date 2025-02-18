@@ -1,0 +1,21 @@
+# File sensitif
+.env
+outputs/
+data/
+
+# Virtual environment
+.venv/
+venv/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Log files
+*.log
